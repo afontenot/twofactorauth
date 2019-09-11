@@ -1158,6 +1158,15 @@ websites:
       img: unionbank.png
       tfa: No
 
+    - name: University Credit Union
+      url: https://www.ucu.org/
+      img: universitycu.png
+      tfa: Yes
+      email: Yes
+      sms: Yes
+      phone: Yes
+      doc: https://ib.ucu.org/tob/live/usp-core/static/help.html#update_security_options
+
     - name: US Bank
       url: https://www.usbank.com/
       img: usbank.png
